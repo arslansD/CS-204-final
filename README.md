@@ -23,8 +23,6 @@ The dashboard is auto populated for first two users. One among those user is tes
 - Spring Security
 - Spring Boot
 - Spring Data JPA
-- Maven
-- JSP
 - HSQL or Mysql or Postgres or any database with JDBC support
 
 ## Run
@@ -41,11 +39,9 @@ You can sign up and later login.
 
 **Note** : 
 
-For demo purpose, in memory database (hsql) is being used. So, every time you start the application the tables will be re-created and you need to sign up again.
+Every time you start the application the tables will be re-created and you need to sign up again.
 
 To show a few documents on dashboard, for users with userid 01 and 02, I have created the insert script (data.sql) for table "doc".
-
-When you will use any other database with jdbc support like mysql or postgres, you can remove the data.sql file as it will be executed everytime when the applicattion starts. As mysql or postgres are not in memory database, you can run the script once manually before the application starts.
 
 ## Snapshots
 
@@ -82,7 +78,7 @@ You can run the application as it is to use this database. This runs data.sql fi
 
 To use mysql as database, you need to have mysql-server running at some host and port. The database must have been created before.
 
-(To install mysql on linux [ubuntu] : http://www.iamjrp.com/2017/mssql-on-Linux-cli/)
+When installing on Linux:
 
 Changes needed are :
 
@@ -96,7 +92,7 @@ Changes needed are :
 
 Similar to mysql, to use postgres as database, you need to have postgres server running at some host and port. The database must have been created before.
 
-(To install Postgres on linux [ubuntu] : http://www.iamjrp.com/2017/installing-postgres/ )
+When installing Postresql on Linux:
 
 Changes needed are :
 

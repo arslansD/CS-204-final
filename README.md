@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-This is a simple solo project. It contains User interface, with login, registration, and list of notes/things to do. Currently, there are three random pictures, which can be changed to notes or just to store information if user wants. 
+This is a simple solo project. It contains User interface, with login, registration, and list of notes/things to do. Currently, there are three random pictures, which can be changed to notes or just to store information if user wants. Heroku, Database and other details are written below.
 
 The "feature" branch of this project is deployed to heroku and can be seen @ this url https://dboot.herokuapp.com/
 

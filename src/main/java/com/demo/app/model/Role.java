@@ -1,4 +1,7 @@
+package com.demo.app.model;
 
+import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 @Table(name = "tbl_role")

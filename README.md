@@ -1,4 +1,4 @@
-# Simple Solo Web Application with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
+# Simple Solo Web Application with Spring Security, Spring Boot, Spring Data JPA
 
 <p align="center">
   <img src="logo%20alatoo.png">

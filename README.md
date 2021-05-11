@@ -1,14 +1,11 @@
-# Simple Solo Web Application with Spring Security, Spring Boot, Spring Data JPA
+# Solo Web Application with Spring Security, Spring Boot, Spring Data JPA
 
 <p align="center">
   <img src="logo%20alatoo.png">
 </p>
 
-<p align="center">
-  <img src="logo.png">
-</p>
-
 ## Description
+This is a simple solo project. It contains User interface, with login, registration, and list of notes/things to do. Currently, there are three random pictures, which can be changed to notes or just to store information if user wants. 
 
 The "feature" branch of this project is deployed to heroku and can be seen @ this url https://dboot.herokuapp.com/
 
@@ -143,5 +140,8 @@ In CSS front, bootstrap is used. To add more UI element, please check this refer
 
 1. Spring boot reference guide : https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
 2. Spring Boot quick start video from Javabrains : https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
-3. Spring tuorial by Java Brains : https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7
+3. Spring tutorial by Java Brains : https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7
 
+<p align="center">
+  <img src="logo.png">
+</p>

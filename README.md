@@ -1,4 +1,4 @@
-# Solo Web Application with Spring Security, Spring Boot, Spring Data JPA
+# Solo Web Application with Spring Security, Spring Boot, Spring Data JPA for Ala-Too International University
 
 <p align="center">
   <img src="logo%20alatoo.png">

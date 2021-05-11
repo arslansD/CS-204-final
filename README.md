@@ -1,5 +1,8 @@
 # Simple Solo Web Application with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
 
+<img src="logo%20alatoo.png">
+
+
 ## Description
 
 The "feature" branch of this project is deployed to heroku and can be seen @ this url https://dboot.herokuapp.com/

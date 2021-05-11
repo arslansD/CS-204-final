@@ -43,7 +43,7 @@ Every time you start the application the tables will be re-created and you need 
 
 To show a few documents on dashboard, for users with userid 01 and 02, I have created the insert script (data.sql) for table "doc".
 
-## Snapshots
+## Screenshots
 
 ![Login](https://i.imgur.com/PBOfEoH.png)
 
@@ -54,7 +54,7 @@ To show a few documents on dashboard, for users with userid 01 and 02, I have cr
 
 
 ![dashboard](https://i.imgur.com/6xsAVkw.png)
-
+To clarify, the files inside are just random pictures. You may change them if you wish.
 
 
 ![Logout](https://i.imgur.com/Kly5k1Q.png)

@@ -4,6 +4,10 @@
   <img src="logo%20alatoo.png">
 </p>
 
+<p align="center">
+  <img src="logo.png">
+</p>
+
 ## Description
 
 The "feature" branch of this project is deployed to heroku and can be seen @ this url https://dboot.herokuapp.com/
